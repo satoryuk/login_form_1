@@ -8,14 +8,8 @@ This project includes animations, form validation, and a beautiful UI suitable f
 ## 🔗 Live Demo
 
 👉 **View Demo:**  
-https://your-project-demo-url.com  
+[https://your-project-demo-url.com](https://moderlogin.vercel.app/)  
 *(Replace with your actual deployed URL)*
-
----
-
-## 📸 Preview
-
-![Login Form Preview]([your-image-url-here](https://moderlogin.vercel.app/))
 
 ---
 
@@ -38,16 +32,3 @@ https://your-project-demo-url.com
 
 ---
 
-## 📁 Project Structure
-
-project-folder/
-├── index.html
-├── assets/
-│ ├── images/
-│ └── icons/
-├── styles/
-│ ├── style.css
-│ └── style.scss
-├── js/
-│ └── main.js
-└── README.md
